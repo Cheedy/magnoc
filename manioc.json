@@ -2,9 +2,9 @@
   "name": "For documentation of Manioc in South Africa",
   "void": false,
   "url": "pote.boy.fr",
-  "forcing": false,
-  "versionI": "2.0.4",
-  "versionA": "2.0.3",
+  "forcing": true,
+  "versionI": "2.0.5",
+  "versionA": "2.0.5",
   "sourceLang": "fr",
   "maniocAdsView": 5,
   "maniocAdsMain": 5
