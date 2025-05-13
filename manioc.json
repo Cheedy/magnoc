@@ -2,7 +2,7 @@
   "name": "For documentation of Manioc in South Africa",
   "void": false,
   "url": "pote.boy.fr",
-  "forcing": false,
+  "forcing": true,
   "versionI": "3.0.1",
   "versionA": "3.0.1",
   "sourceLang": "fr",
